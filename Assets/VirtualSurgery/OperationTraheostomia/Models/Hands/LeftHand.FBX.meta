@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: 9f5b513f93a65134f97989662eb13b1f
+timeCreated: 1501656354
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Arm
+    100004: Dummy002
+    100006: Dummy004
+    100008: Dummy005
+    100010: Dummy006
+    100012: Dummy007
+    100014: Hand
+    100016: IndexDistal
+    100018: IndexMiddle
+    100020: IndexProximal
+    100022: Line001
+    100024: MiddleDistal
+    100026: MiddleMiddle
+    100028: MiddleProximal
+    100030: Object207
+    100032: Object208
+    100034: perchatka_L
+    100036: PinkyDistal
+    100038: PinkyMiddle
+    100040: PinkyProximal
+    100042: Pointed scalpel002
+    100044: RingDistal
+    100046: RingMiddle
+    100048: RingProximal
+    100050: ThumbDistal
+    100052: ThumbMiddle
+    100054: ThumbProximal
+    100056: zazhim_br00
+    100058: zazhim_br01
+    100060: zond_zhelob
+    400000: //RootNode
+    400002: Arm
+    400004: Dummy002
+    400006: Dummy004
+    400008: Dummy005
+    400010: Dummy006
+    400012: Dummy007
+    400014: Hand
+    400016: IndexDistal
+    400018: IndexMiddle
+    400020: IndexProximal
+    400022: Line001
+    400024: MiddleDistal
+    400026: MiddleMiddle
+    400028: MiddleProximal
+    400030: Object207
+    400032: Object208
+    400034: perchatka_L
+    400036: PinkyDistal
+    400038: PinkyMiddle
+    400040: PinkyProximal
+    400042: Pointed scalpel002
+    400044: RingDistal
+    400046: RingMiddle
+    400048: RingProximal
+    400050: ThumbDistal
+    400052: ThumbMiddle
+    400054: ThumbProximal
+    400056: zazhim_br00
+    400058: zazhim_br01
+    400060: zond_zhelob
+    2300000: //RootNode
+    2300002: Arm
+    2300004: Hand
+    2300006: IndexDistal
+    2300008: IndexMiddle
+    2300010: IndexProximal
+    2300012: Line001
+    2300014: MiddleDistal
+    2300016: MiddleMiddle
+    2300018: MiddleProximal
+    2300020: Object207
+    2300022: Object208
+    2300024: PinkyDistal
+    2300026: PinkyMiddle
+    2300028: PinkyProximal
+    2300030: Pointed scalpel002
+    2300032: RingDistal
+    2300034: RingMiddle
+    2300036: RingProximal
+    2300038: ThumbDistal
+    2300040: ThumbMiddle
+    2300042: ThumbProximal
+    2300044: zazhim_br00
+    2300046: zazhim_br01
+    2300048: zond_zhelob
+    3300000: //RootNode
+    3300002: Arm
+    3300004: Hand
+    3300006: IndexDistal
+    3300008: IndexMiddle
+    3300010: IndexProximal
+    3300012: Line001
+    3300014: MiddleDistal
+    3300016: MiddleMiddle
+    3300018: MiddleProximal
+    3300020: Object207
+    3300022: Object208
+    3300024: PinkyDistal
+    3300026: PinkyMiddle
+    3300028: PinkyProximal
+    3300030: Pointed scalpel002
+    3300032: RingDistal
+    3300034: RingMiddle
+    3300036: RingProximal
+    3300038: ThumbDistal
+    3300040: ThumbMiddle
+    3300042: ThumbProximal
+    3300044: zazhim_br00
+    3300046: zazhim_br01
+    3300048: zond_zhelob
+    4300000: perchatka_L
+    4300002: Object207
+    4300004: Object208
+    4300006: Pointed scalpel002
+    4300008: Line001
+    4300010: Arm
+    4300012: Hand
+    4300014: MiddleProximal
+    4300016: MiddleMiddle
+    4300018: MiddleDistal
+    4300020: IndexProximal
+    4300022: IndexMiddle
+    4300024: IndexDistal
+    4300026: RingProximal
+    4300028: RingMiddle
+    4300030: RingDistal
+    4300032: PinkyProximal
+    4300034: PinkyMiddle
+    4300036: PinkyDistal
+    4300038: ThumbProximal
+    4300040: ThumbMiddle
+    4300042: ThumbDistal
+    4300044: zazhim_br00
+    4300046: zazhim_br01
+    4300048: zond_zhelob
+    7400000: HandAnimation
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: perchatka_L
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: Dummy005/Arm
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: HandAnimation
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Arm
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
